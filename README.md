@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- [𝕏 @tachi_hi_](https://twitter.com/tachi_hi_)
+- [HuggingFace @tachi-hi](https://huggingface.co/tachi-hi)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=wAXtttwAAAAJ)
+- [OpenReview](https://openreview.net/profile?id=~Hideyuki_Tachibana1)
+- [researchmap](https://researchmap.jp/tachi-hi/)
+- [LinkedIn](https://jp.linkedin.com/in/hideyuki-tachibana-5a513451)
+
 <!--
 **tachi-hi/tachi-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
