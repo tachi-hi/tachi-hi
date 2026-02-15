@@ -20,4 +20,4 @@ For more details, see my [personal website](https://tachi-hi.github.io/) or [Lin
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tachi-hi&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tachi-hi&show_icons=true&theme=default)
