@@ -21,4 +21,4 @@ For more details, see my [personal website](https://tachi-hi.github.io/) or [Lin
 ---
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tachi-hi&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tachi-hi&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tachi-hi&layout=compact&theme=default&langs_count=8)
