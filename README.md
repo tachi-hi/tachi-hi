@@ -13,6 +13,7 @@ For more details, see my [personal website](https://tachi-hi.github.io/) or [Lin
 [![X](https://img.shields.io/badge/𝕏-@tachi__hi__-000?logo=x&logoColor=white)](https://twitter.com/tachi_hi_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://jp.linkedin.com/in/hideyuki-tachibana-5a513451)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-tachi--hi-yellow)](https://huggingface.co/tachi-hi)
+[![Gist](https://img.shields.io/badge/Gist-181717?logo=github&logoColor=white)](https://gist.github.com/tachi-hi)
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.co.jp/citations?user=wAXtttwAAAAJ)
 [![OpenReview](https://img.shields.io/badge/OpenReview-b31b1b)](https://openreview.net/profile?id=~Hideyuki_Tachibana1)
